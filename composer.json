@@ -11,8 +11,9 @@
     ],
         "psr-4": {
             "Ced\\Test\\": ""
-        }
+        
     },
     "minimum-stability": "stable"
-}
 
+
+}
