@@ -1,5 +1,5 @@
 {
-    "name": "ced/module-test",
+    "name": "aston/module-test",
     "description": "Extension which will connect with marketplaces.",
     "require": {
         "php": "~7.4.0||~8.1.0||~8.2.0"
@@ -9,10 +9,7 @@
     "license": [
         "EULA"
     ],
-        "psr-4": {
-            "Ced\\Test\\": ""
-        
-    },
+    
     "minimum-stability": "stable"
 
 
