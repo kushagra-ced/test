@@ -1,5 +1,5 @@
 {
-    "name": "aston/module-test",
+    "name": "aston9196/module-test",
     "description": "Extension which will connect with marketplaces.",
     "require": {
         "php": "~7.4.0||~8.1.0||~8.2.0"
